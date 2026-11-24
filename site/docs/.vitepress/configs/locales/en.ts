@@ -412,6 +412,10 @@ const hostingTutorials = {
       text: "Heroku",
       link: "/hosting/heroku",
     },
+    {
+      text: "Prisma Compute",
+      link: "/hosting/prisma-compute",
+    },
   ],
 };
 
